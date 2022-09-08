@@ -2,7 +2,7 @@
 (Ancient Greek) Dream.
 
 Our dream is to bring millions of developers to the [Cardano blockchain](https://cardano.org).
-We are doing it by creating Oneiron SDK - a sidechain development kit for Cardano.
+We are doing it by creating **Oneiron SDK** — sidechain development kit for the Cardano blockchain.
 
 With Oneiron SDK, _anyone_ will be able to create a sidechain node with a simple CLI command.
 
